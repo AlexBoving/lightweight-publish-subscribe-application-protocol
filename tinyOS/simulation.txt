@@ -1,0 +1,928 @@
+DEBUG (1): Application booted on node 1.
+DEBUG (9): Application booted on node 9.
+DEBUG (3): Application booted on node 3.
+DEBUG (7): Application booted on node 7.
+DEBUG (6): Application booted on node 6.
+DEBUG (2): Application booted on node 2.
+DEBUG (5): Application booted on node 5.
+DEBUG (4): Application booted on node 4.
+DEBUG (8): Application booted on node 8.
+DEBUG (3): Radio on!
+DEBUG (1): Radio on!
+DEBUG (9): Radio on!
+DEBUG (8): Radio on!
+DEBUG (4): Radio on!
+DEBUG (7): Radio on!
+DEBUG (5): Radio on!
+DEBUG (2): Radio on!
+DEBUG (6): Radio on!
+DEBUG (1): Timer2 for handling the sending of the packets fired at 0:0:0.059570322.
+DEBUG (1): Preparing the message... 
+DEBUG (1): Packet passed to lower layer successfully!
+DEBUG (1): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.062438958
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 1 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.062438958
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.062438968.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (1): Packet sent... at time 0:0:0.062606803 
+DEBUG (1): Received packet at time 0:0:0.069351159
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 0 
+ DEBUG (1): Received connack message! 0:0:0.069351159
+DEBUG (9): Packet sent... at time 0:0:0.069519004 
+DEBUG (1): Timer2 for handling the sending of the packets fired at 0:0:0.128906260.
+DEBUG (1): Preparing the message... 
+DEBUG (1): Packet passed to lower layer successfully!
+DEBUG (1): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.136535610
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 1 
+ 		 source: 1 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:0.136535610
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.136535620.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (1): Packet sent... at time 0:0:0.136703455 
+DEBUG (1): Received packet at time 0:0:0.141754095
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 0 
+ DEBUG (1): Received suback message! 0:0:0.141754095
+DEBUG (9): Packet sent... at time 0:0:0.141921941 
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:0:0.168945322.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.172683704
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.172683704
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.172683714.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:0:0.172851549 
+DEBUG (2): Received packet at time 0:0:0.175369245
+DEBUG (2):  Payload length 8 
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 2 
+ 		 data: 0 
+ DEBUG (2): Received connack message! 0:0:0.175369245
+DEBUG (9): Packet sent... at time 0:0:0.175537090 
+DEBUG (3): Timer2 for handling the sending of the packets fired at 0:0:0.260742197.
+DEBUG (3): Preparing the message... 
+DEBUG (3): Packet passed to lower layer successfully!
+DEBUG (3): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.261993410
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 3 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.261993410
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.261993420.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (3): Packet sent... at time 0:0:0.262161256 
+DEBUG (3): Received packet at time 0:0:0.269073457
+DEBUG (3):  Payload length 8 
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 3 
+ 		 data: 0 
+ DEBUG (3): Received connack message! 0:0:0.269073457
+DEBUG (9): Packet sent... at time 0:0:0.269241303 
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:0:0.343750010.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.354110667
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 2 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:0.354110667
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.354110677.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:0:0.354278513 
+DEBUG (2): Received packet at time 0:0:0.359619068
+DEBUG (2):  Payload length 8 
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 2 
+ 		 data: 0 
+ DEBUG (2): Received suback message! 0:0:0.359619068
+DEBUG (9): Packet sent... at time 0:0:0.359786913 
+DEBUG (4): Timer2 for handling the sending of the packets fired at 0:0:0.362304697.
+DEBUG (4): Preparing the message... 
+DEBUG (4): Packet passed to lower layer successfully!
+DEBUG (4): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.369064301
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 4 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.369064301
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.369064311.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (4): Packet sent... at time 0:0:0.369232147 
+DEBUG (4): Received packet at time 0:0:0.370773286
+DEBUG (4):  Payload length 8 
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 4 
+ 		 data: 0 
+ DEBUG (4): Received connack message! 0:0:0.370773286
+DEBUG (9): Packet sent... at time 0:0:0.370941131 
+DEBUG (5): Timer2 for handling the sending of the packets fired at 0:0:0.467773447.
+DEBUG (5): Preparing the message... 
+DEBUG (5): Packet passed to lower layer successfully!
+DEBUG (5): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.470794670
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 5 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.470794670
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.470794680.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (5): Packet sent... at time 0:0:0.470962515 
+DEBUG (5): Received packet at time 0:0:0.480789128
+DEBUG (5):  Payload length 8 
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 5 
+ 		 data: 0 
+ DEBUG (5): Received connack message! 0:0:0.480789128
+DEBUG (9): Packet sent... at time 0:0:0.480956974 
+DEBUG (3): Timer2 for handling the sending of the packets fired at 0:0:0.529296885.
+DEBUG (3): Preparing the message... 
+DEBUG (3): Packet passed to lower layer successfully!
+DEBUG (3): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.537582359
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 3 
+ 		 source: 3 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:0.537582359
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.537582369.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (3): Packet sent... at time 0:0:0.537750204 
+DEBUG (3): Received packet at time 0:0:0.541168163
+DEBUG (3):  Payload length 8 
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 3 
+ 		 source: 9 
+ 		 destination: 3 
+ 		 data: 0 
+ DEBUG (3): Received suback message! 0:0:0.541168163
+DEBUG (9): Packet sent... at time 0:0:0.541336009 
+DEBUG (6): Timer2 for handling the sending of the packets fired at 0:0:0.569335947.
+DEBUG (6): Preparing the message... 
+DEBUG (6): Packet passed to lower layer successfully!
+DEBUG (6): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.573333726
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 6 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.573333726
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.573333736.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (6): Packet sent... at time 0:0:0.573501572 
+DEBUG (6): Received packet at time 0:0:0.575469954
+DEBUG (6):  Payload length 8 
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 6 
+ 		 data: 0 
+ DEBUG (6): Received connack message! 0:0:0.575469954
+DEBUG (9): Packet sent... at time 0:0:0.575637800 
+DEBUG (7): Timer2 for handling the sending of the packets fired at 0:0:0.672851572.
+DEBUG (7): Preparing the message... 
+DEBUG (7): Packet passed to lower layer successfully!
+DEBUG (7): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.679290743
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 7 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.679290743
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.679290753.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (7): Packet sent... at time 0:0:0.679458589 
+DEBUG (7): Received packet at time 0:0:0.686614929
+DEBUG (7):  Payload length 8 
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 7 
+ 		 data: 0 
+ DEBUG (7): Received connack message! 0:0:0.686614929
+DEBUG (9): Packet sent... at time 0:0:0.686782775 
+DEBUG (4): Timer2 for handling the sending of the packets fired at 0:0:0.732421885.
+DEBUG (4): Preparing the message... 
+DEBUG (4): Packet passed to lower layer successfully!
+DEBUG (4): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.740203822
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 2 
+ 		 source: 4 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:0.740203822
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.740203832.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (4): Packet sent... at time 0:0:0.740371667 
+DEBUG (4): Received packet at time 0:0:0.743743850
+DEBUG (4):  Payload length 8 
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 4 
+ 		 data: 0 
+ DEBUG (4): Received suback message! 0:0:0.743743850
+DEBUG (9): Packet sent... at time 0:0:0.743911696 
+DEBUG (8): Timer2 for handling the sending of the packets fired at 0:0:0.776367197.
+DEBUG (8): Preparing the message... 
+DEBUG (8): Packet passed to lower layer successfully!
+DEBUG (8): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.779586783
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 1 
+ 		 subtype: 0 
+ 		 source: 8 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received connect message! 0:0:0.779586783
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.779586793.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (8): Packet sent... at time 0:0:0.779754628 
+DEBUG (8): Received packet at time 0:0:0.787597610
+DEBUG (8):  Payload length 8 
+DEBUG (8): >>>Pack 
+		 Payload Received
+		 type: 2 
+ 		 subtype: 0 
+ 		 source: 9 
+ 		 destination: 8 
+ 		 data: 0 
+ DEBUG (8): Received connack message! 0:0:0.787597610
+DEBUG (9): Packet sent... at time 0:0:0.787765456 
+DEBUG (5): Timer2 for handling the sending of the packets fired at 0:0:0.948242197.
+DEBUG (5): Preparing the message... 
+DEBUG (5): Packet passed to lower layer successfully!
+DEBUG (5): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:0.950042724
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 1 
+ 		 source: 5 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:0.950042724
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:0.950042734.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (5): Packet sent... at time 0:0:0.950210569 
+DEBUG (5): Received packet at time 0:0:0.954360946
+DEBUG (5):  Payload length 8 
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 5 
+ 		 data: 0 
+ DEBUG (5): Received suback message! 0:0:0.954360946
+DEBUG (9): Packet sent... at time 0:0:0.954528791 
+DEBUG (6): Timer2 for handling the sending of the packets fired at 0:0:1.144531260.
+DEBUG (6): Preparing the message... 
+DEBUG (6): Packet passed to lower layer successfully!
+DEBUG (6): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:1.150711033
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 2 
+ 		 source: 6 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:1.150711033
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:1.150711043.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (6): Packet sent... at time 0:0:1.150878879 
+DEBUG (6): Received packet at time 0:0:1.161086959
+DEBUG (6):  Payload length 8 
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 6 
+ 		 data: 0 
+ DEBUG (6): Received suback message! 0:0:1.161086959
+DEBUG (9): Packet sent... at time 0:0:1.161254805 
+DEBUG (7): Timer2 for handling the sending of the packets fired at 0:0:1.359375010.
+DEBUG (7): Preparing the message... 
+DEBUG (7): Packet passed to lower layer successfully!
+DEBUG (7): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:1.367095912
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 3 
+ 		 source: 7 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:1.367095912
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:1.367095922.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (7): Packet sent... at time 0:0:1.367263757 
+DEBUG (7): Received packet at time 0:0:1.372299138
+DEBUG (7):  Payload length 8 
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 3 
+ 		 source: 9 
+ 		 destination: 7 
+ 		 data: 0 
+ DEBUG (7): Received suback message! 0:0:1.372299138
+DEBUG (9): Packet sent... at time 0:0:1.372466984 
+DEBUG (8): Timer2 for handling the sending of the packets fired at 0:0:1.563476572.
+DEBUG (8): Preparing the message... 
+DEBUG (8): Packet passed to lower layer successfully!
+DEBUG (8): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:1.565887447
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 3 
+ 		 subtype: 2 
+ 		 source: 8 
+ 		 destination: 9 
+ 		 data: 0 
+ DEBUG (9): Received subscribe message! 0:0:1.565887447
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:1.565887457.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (8): Packet sent... at time 0:0:1.566055292 
+DEBUG (8): Received packet at time 0:0:1.568572988
+DEBUG (8):  Payload length 8 
+DEBUG (8): >>>Pack 
+		 Payload Received
+		 type: 4 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 8 
+ 		 data: 0 
+ DEBUG (8): Received suback message! 0:0:1.568572988
+DEBUG (9): Packet sent... at time 0:0:1.568740834 
+DEBUG (2): Temperature timer fired at 0:0:19.531250010.
+DEBUG (2): temp read done 20.425727
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:0:19.702148447.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:19.712326000
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 20 
+ DEBUG (9): The PANC received the publish message! 0:0:19.712326000
+DEBUG (9): PANC sends a PUBLISH message to 1
+DEBUG (9): PANC sends a PUBLISH message to 5
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:19.712326010.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:0:19.712493846 
+DEBUG (1): Received packet at time 0:0:19.716537411
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 20 
+ DEBUG (1): The following node client received the publish message: 1
+DEBUG (1): The subtype of the message is the following one: 1 
+DEBUG (1): The value of the message is the following one: 20
+DEBUG (9): Packet sent... at time 0:0:19.716705257 
+DEBUG (3): Humidity timer fired at 0:0:34.179687510.
+DEBUG (3): hum read done 51.937133
+DEBUG (3): Timer2 for handling the sending of the packets fired at 0:0:34.442382822.
+DEBUG (3): Preparing the message... 
+DEBUG (3): Packet passed to lower layer successfully!
+DEBUG (3): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:34.452407788
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 2 
+ 		 source: 3 
+ 		 destination: 9 
+ 		 data: 51 
+ DEBUG (9): The PANC received the publish message! 0:0:34.452407788
+DEBUG (9): PANC sends a PUBLISH message to 2
+DEBUG (9): PANC sends a PUBLISH message to 4
+DEBUG (9): PANC sends a PUBLISH message to 6
+DEBUG (9): PANC sends a PUBLISH message to 8
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:34.452407798.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (3): Packet sent... at time 0:0:34.452575634 
+DEBUG (2): Received packet at time 0:0:34.459533611
+DEBUG (2):  Payload length 8 
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 2 
+ 		 data: 51 
+ DEBUG (2): The following node client received the publish message: 2
+DEBUG (2): The subtype of the message is the following one: 2 
+DEBUG (2): The value of the message is the following one: 51
+DEBUG (9): Packet sent... at time 0:0:34.459701457 
+DEBUG (2): Temperature timer fired at 0:0:39.062500010.
+DEBUG (2): temp read done 20.848402
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:0:39.233398447.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:39.242813065
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 20 
+ DEBUG (9): The PANC received the publish message! 0:0:39.242813065
+DEBUG (9): PANC sends a PUBLISH message to 1
+DEBUG (9): PANC sends a PUBLISH message to 5
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:39.242813075.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:0:39.242980911 
+DEBUG (1): Received packet at time 0:0:39.244964552
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 20 
+ DEBUG (1): The following node client received the publish message: 1
+DEBUG (1): The subtype of the message is the following one: 1 
+DEBUG (1): The value of the message is the following one: 20
+DEBUG (9): Packet sent... at time 0:0:39.245132397 
+DEBUG (7): Luminosity timer fired at 0:0:58.593750010.
+DEBUG (2): Temperature timer fired at 0:0:58.593750010.
+DEBUG (7): hum read done 51.937133
+DEBUG (2): temp read done 21.464866
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:0:58.764648447.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:58.769210798
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 21 
+ DEBUG (9): The PANC received the publish message! 0:0:58.769210798
+DEBUG (9): PANC sends a PUBLISH message to 1
+DEBUG (9): PANC sends a PUBLISH message to 5
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:58.769210808.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:0:58.769378644 
+DEBUG (1): Received packet at time 0:0:58.773864712
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 21 
+ DEBUG (1): The following node client received the publish message: 1
+DEBUG (1): The subtype of the message is the following one: 1 
+DEBUG (1): The value of the message is the following one: 21
+DEBUG (9): Packet sent... at time 0:0:58.774032558 
+DEBUG (7): Timer2 for handling the sending of the packets fired at 0:0:59.268554697.
+DEBUG (7): Preparing the message... 
+DEBUG (7): Packet passed to lower layer successfully!
+DEBUG (7): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:0:59.278869578
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 3 
+ 		 source: 7 
+ 		 destination: 9 
+ 		 data: 51 
+ DEBUG (9): The PANC received the publish message! 0:0:59.278869578
+DEBUG (9): PANC sends a PUBLISH message to 3
+DEBUG (9): PANC sends a PUBLISH message to 7
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:0:59.278869588.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (7): Packet sent... at time 0:0:59.279037424 
+DEBUG (3): Received packet at time 0:0:59.280761667
+DEBUG (3):  Payload length 8 
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 3 
+ 		 source: 9 
+ 		 destination: 3 
+ 		 data: 51 
+ DEBUG (3): The following node client received the publish message: 3
+DEBUG (3): The subtype of the message is the following one: 3 
+DEBUG (3): The value of the message is the following one: 51
+DEBUG (9): Packet sent... at time 0:0:59.280929513 
+DEBUG (3): Humidity timer fired at 0:1:8.360351572.
+DEBUG (3): hum read done 51.963073
+DEBUG (3): Timer2 for handling the sending of the packets fired at 0:1:8.623046885.
+DEBUG (3): Preparing the message... 
+DEBUG (3): Packet passed to lower layer successfully!
+DEBUG (3): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:1:8.628631569
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 2 
+ 		 source: 3 
+ 		 destination: 9 
+ 		 data: 51 
+ DEBUG (9): The PANC received the publish message! 0:1:8.628631569
+DEBUG (9): PANC sends a PUBLISH message to 2
+DEBUG (9): PANC sends a PUBLISH message to 4
+DEBUG (9): PANC sends a PUBLISH message to 6
+DEBUG (9): PANC sends a PUBLISH message to 8
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:1:8.628631579.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (3): Packet sent... at time 0:1:8.628799414 
+DEBUG (2): Received packet at time 0:1:8.630783055
+DEBUG (2):  Payload length 8 
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 2 
+ 		 data: 51 
+ DEBUG (2): The following node client received the publish message: 2
+DEBUG (2): The subtype of the message is the following one: 2 
+DEBUG (2): The value of the message is the following one: 51
+DEBUG (9): Packet sent... at time 0:1:8.630950901 
+DEBUG (2): Temperature timer fired at 0:1:18.125000010.
+DEBUG (2): temp read done 21.940948
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:1:18.295898447.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:1:18.298629754
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 21 
+ DEBUG (9): The PANC received the publish message! 0:1:18.298629754
+DEBUG (9): PANC sends a PUBLISH message to 1
+DEBUG (9): PANC sends a PUBLISH message to 5
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:1:18.298629764.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:1:18.298797600 
+DEBUG (1): Received packet at time 0:1:18.307357741
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 21 
+ DEBUG (1): The following node client received the publish message: 1
+DEBUG (1): The subtype of the message is the following one: 1 
+DEBUG (1): The value of the message is the following one: 21
+DEBUG (9): Packet sent... at time 0:1:18.307525586 
+DEBUG (2): Temperature timer fired at 0:1:37.656250010.
+DEBUG (2): temp read done 22.383459
+DEBUG (2): Timer2 for handling the sending of the packets fired at 0:1:37.827148447.
+DEBUG (2): Preparing the message... 
+DEBUG (2): Packet passed to lower layer successfully!
+DEBUG (2): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:1:37.833480808
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 2 
+ 		 destination: 9 
+ 		 data: 22 
+ DEBUG (9): The PANC received the publish message! 0:1:37.833480808
+DEBUG (9): PANC sends a PUBLISH message to 1
+DEBUG (9): PANC sends a PUBLISH message to 5
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:1:37.833480818.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (2): Packet sent... at time 0:1:37.833648653 
+DEBUG (1): Received packet at time 0:1:37.834686255
+DEBUG (1):  Payload length 8 
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 1 
+ 		 source: 9 
+ 		 destination: 1 
+ 		 data: 22 
+ DEBUG (1): The following node client received the publish message: 1
+DEBUG (1): The subtype of the message is the following one: 1 
+DEBUG (1): The value of the message is the following one: 22
+DEBUG (9): Packet sent... at time 0:1:37.834854101 
+DEBUG (3): Humidity timer fired at 0:1:42.539062510.
+DEBUG (3): hum read done 51.905089
+DEBUG (3): Timer2 for handling the sending of the packets fired at 0:1:42.801757822.
+DEBUG (3): Preparing the message... 
+DEBUG (3): Packet passed to lower layer successfully!
+DEBUG (3): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (9): Received packet at time 0:1:42.811325027
+DEBUG (9):  Payload length 8 
+DEBUG (9): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 2 
+ 		 source: 3 
+ 		 destination: 9 
+ 		 data: 51 
+ DEBUG (9): The PANC received the publish message! 0:1:42.811325027
+DEBUG (9): PANC sends a PUBLISH message to 2
+DEBUG (9): PANC sends a PUBLISH message to 4
+DEBUG (9): PANC sends a PUBLISH message to 6
+DEBUG (9): PANC sends a PUBLISH message to 8
+DEBUG (9): Timer2 for handling the sending of the packets fired at 0:1:42.811325037.
+DEBUG (9): Preparing the message... 
+DEBUG (9): Packet passed to lower layer successfully!
+DEBUG (9): >>>Pack
+ 	 Payload length 8 
+	 Payload Sent
+DEBUG (3): Packet sent... at time 0:1:42.811492873 
+DEBUG (2): Received packet at time 0:1:42.814895573
+DEBUG (2):  Payload length 8 
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 type: 5 
+ 		 subtype: 2 
+ 		 source: 9 
+ 		 destination: 2 
+ 		 data: 51 
+ DEBUG (2): The following node client received the publish message: 2
+DEBUG (2): The subtype of the message is the following one: 2 
+DEBUG (2): The value of the message is the following one: 51
+DEBUG (9): Packet sent... at time 0:1:42.815063418 
