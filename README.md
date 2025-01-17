@@ -38,11 +38,5 @@ This project involves the design and implementation of a lightweight publish-sub
 - Test scalability with larger network topologies.
 - Optimize performance for energy-constrained devices.
 
-## Getting Started
-1. Clone the repository.
-2. Set up the TinyOS environment on your system.
-3. Use Tossim or Cooja for running simulations.
-4. Visualize the data using Node-RED or ThingSpeak.
-
 ## Contact
 Feel free to reach out if you have questions or suggestions about this project.
